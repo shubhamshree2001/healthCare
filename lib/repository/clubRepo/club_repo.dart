@@ -1,0 +1,42 @@
+import 'package:dartz/dartz.dart';
+import 'package:mindpeers_mobile_flutter/data/models/clubModels/boat_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/clubModels/community_info_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/clubModels/community_list_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/clubModels/event_list_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/clubModels/event_notify_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/clubModels/post_vent_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/clubModels/vent_list_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/clubModels/vent_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/clubModels/vents_replies_list_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/commonResponse/auth_mutation_create_response.dart';
+import 'package:mindpeers_mobile_flutter/data/models/commonResponse/common_auth_response.dart';
+import '../../data/models/clubModels/community_config_response.dart';
+import '../../data/models/commonResponse/common_auth_mutation_response.dart';
+import '../../data/models/settingModel/responseSetting/updateUser_response.dart';
+import '../../data/models/therapyModel/create_therapy_order.dart';
+import '../../data/models/therapyModel/get_gift_therapy_order_response.dart';
+import '../../data/models/therapyModel/therapy_gift_plan_response.dart';
+import '../../exception/failure.dart';
+
+abstract class ClubRepo {
+  Future<Either<Failure, CommunityConfigResponse>> getCommunityConfig(String query);
+  Future<Either<Failure, CommunityListResponse>> getCommunityList(String query,Map<String,dynamic> variable);
+  Future<Either<Failure, VentListResponse>> getVentList(String query);
+  Future<Either<Failure, CommonAuthMutationResponse>> updateFollowStatus(String query);
+  Future<Either<Failure, CommonAuthMutationResponse>> updateVent(String query);
+  Future<Either<Failure, CommunityInfoResponse>> getCommunityInfo(String query);
+  Future<Either<Failure, VentRepliesListResponse>> getVentRepliesList(String query);
+  Future<Either<Failure, CommonAuthResponse>> checkVentStatus(String query);
+  Future<Either<Failure, VentResponse>> getVent(String query);
+  Future<Either<Failure, PostVentResponse>> postVent(String query);
+  Future<Either<Failure, EventListResponse>> getEventList(String query);
+  Future<Either<Failure, CommonAuthResponse>> getBoatAvailability(String query);
+  Future<Either<Failure, BoatResponse>> getBoat(String query);
+  Future<Either<Failure, EventNotifyResponse>> notifyEvent(String query);
+  Future<Either<Failure, CommonAuthResponse>> getMeetLink(String sessionId,String type);
+  Future<Either<Failure, TherapyGiftPlanResponse>> getPlanList(String query);
+  Future<Either<Failure, CommonAuthMutationResponse>> subscribe(String query);
+  Future<Either<Failure, CreateTherapyOrderResponse>> createOrder(String query);
+  Future<Either<Failure, AuthMutationCreateResponse>> submitUserFeedback(String query,Map<String,dynamic> variable);
+  Future<Either<Failure, GetTherapyGiftOrderResponse>> getTherapyOrder(String query);
+}

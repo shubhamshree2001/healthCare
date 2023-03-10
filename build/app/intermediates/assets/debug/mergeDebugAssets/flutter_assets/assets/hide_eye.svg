@@ -1,0 +1,13 @@
+<svg id="eye" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_14861" data-name="Group 14861" transform="translate(-365 -187)" opacity="0">
+    <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(367 189)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Rectangle_1593" data-name="Rectangle 1593" transform="translate(365 187)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+  </g>
+  <path id="Icon_awesome-eye-slash" data-name="Icon awesome-eye-slash" d="M8.968,11.209a4.02,4.02,0,0,1-4-3.73L2.023,5.207A9.34,9.34,0,0,0,.994,6.765a.907.907,0,0,0,0,.818,8.988,8.988,0,0,0,7.973,4.971,8.7,8.7,0,0,0,2.183-.293L9.7,11.136a4.039,4.039,0,0,1-.729.073Zm8.794,1.628-3.1-2.394a9.283,9.283,0,0,0,2.277-2.86.907.907,0,0,0,0-.818A8.988,8.988,0,0,0,8.968,1.793,8.636,8.636,0,0,0,4.839,2.85L1.274.094A.448.448,0,0,0,.645.173L.095.881a.448.448,0,0,0,.079.629L16.661,14.254a.448.448,0,0,0,.629-.079l.55-.708a.448.448,0,0,0-.079-.629ZM12.614,8.858l-1.1-.851A2.655,2.655,0,0,0,8.258,4.59a1.335,1.335,0,0,1,.261.791,1.307,1.307,0,0,1-.043.28L6.413,4.066a3.988,3.988,0,0,1,2.554-.928A4.033,4.033,0,0,1,13,7.174a3.94,3.94,0,0,1-.39,1.685Z" transform="translate(3.009 4.826)" fill="#fff"/>
+</svg>

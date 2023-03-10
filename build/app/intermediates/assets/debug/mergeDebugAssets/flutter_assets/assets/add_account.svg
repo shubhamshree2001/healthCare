@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_938" data-name="Rectangle 938" width="48" height="48" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="add_account" clip-path="url(#clip-path)">
+    <g id="Icon_ionic-md-person-add" data-name="Icon ionic-md-person-add" transform="translate(13.691 15.753)">
+      <path id="Path_11831" data-name="Path 11831" d="M16.122,12.747A4.124,4.124,0,1,0,12,8.624,4.136,4.136,0,0,0,16.122,12.747Zm0,2.062c-2.732,0-8.247,1.392-8.247,4.124v2.062H24.37V18.933C24.37,16.2,18.854,14.809,16.122,14.809Z" transform="translate(-3.751 -4.5)" fill="#000058"/>
+      <path id="Path_11832" data-name="Path 11832" d="M5.249,14V11.25H3.874V14H1.125v1.375H3.874v2.749H5.249V15.374H8V14Z" transform="translate(-1.125 -7.126)" fill="#000058"/>
+    </g>
+  </g>
+</svg>

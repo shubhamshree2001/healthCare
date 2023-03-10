@@ -1,0 +1,13 @@
+<svg id="pencil" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_14864" data-name="Group 14864" transform="translate(-365 -187)" opacity="0">
+    <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(367 189)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Rectangle_1593" data-name="Rectangle 1593" transform="translate(365 187)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+  </g>
+  <path id="pencil-outline" d="M77.181,66.7,65.01,78.9,64,80.872l1.976-1.01,12.2-12.171Zm2.484-2.484-.993.993.993.994.993-.994a.7.7,0,0,0,0-.993h0A.7.7,0,0,0,79.665,64.213Z" transform="translate(-60.432 -60.44)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_999" data-name="Rectangle 999" width="48" height="48" transform="translate(0.225)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="gift" transform="translate(48 -0.225) rotate(90)" clip-path="url(#clip-path)">
+    <g id="Icon_feather-gift" data-name="Icon feather-gift" transform="translate(13.763 34) rotate(-90)">
+      <path id="Path_12139" data-name="Path 12139" d="M16,0V10H0V0" transform="translate(2 10)" fill="none" stroke="#000058" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_12140" data-name="Path 12140" d="M0,0H20V5H0Z" transform="translate(0 5)" fill="none" stroke="#000058" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_12141" data-name="Path 12141" d="M0,15V0" transform="translate(10 5)" fill="none" stroke="#000058" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_12142" data-name="Path 12142" d="M7,5H2.5a2.5,2.5,0,1,1,0-5C6,0,7,5,7,5Z" transform="translate(3)" fill="none" stroke="#000058" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_12143" data-name="Path 12143" d="M0,5H4.5a2.5,2.5,0,0,0,0-5C1,0,0,5,0,5Z" transform="translate(10)" fill="none" stroke="#000058" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_988" data-name="Rectangle 988" width="40" height="40" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="apple" clip-path="url(#clip-path)">
+    <g id="Icon_ionic-logo-apple" data-name="Icon ionic-logo-apple" transform="translate(12 9)">
+      <path id="Path_11833" data-name="Path 11833" d="M19.121,10.821c-1.75,0-2.489.859-3.707.859-1.25,0-2.2-.854-3.718-.854a5.051,5.051,0,0,0-4.072,2.52C6.213,15.585,6.453,19.8,8.739,23.4c.817,1.286,1.911,2.728,3.343,2.744h.026c1.244,0,1.614-.838,3.327-.849h.026c1.687,0,2.026.844,3.265.844h.026c1.432-.016,2.583-1.614,3.4-2.9a14.242,14.242,0,0,0,1.26-2.426,4.455,4.455,0,0,1-.568-7.961,4.9,4.9,0,0,0-3.723-2.031Z" transform="translate(-6.748 -6.14)" fill="#fff"/>
+      <path id="Path_11834" data-name="Path 11834" d="M21.541,4.5a4.554,4.554,0,0,0-2.968,1.645A4.142,4.142,0,0,0,17.6,9.311h.083a3.865,3.865,0,0,0,2.905-1.567A4.435,4.435,0,0,0,21.541,4.5Z" transform="translate(-9.553 -4.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

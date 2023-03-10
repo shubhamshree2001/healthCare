@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_992" data-name="Rectangle 992" width="48" height="48" transform="translate(-0.119 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="plus_icon" data-name="plus icon" transform="translate(0.119 0)" clip-path="url(#clip-path)">
+    <g id="Icon_feather-plus" data-name="Icon feather-plus" transform="translate(16.381 16.5)">
+      <path id="Path_12136" data-name="Path 12136" d="M18,7.5v15" transform="translate(-10.5 -7.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_12137" data-name="Path 12137" d="M7.5,18h15" transform="translate(-7.5 -10.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

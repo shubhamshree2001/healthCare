@@ -1,0 +1,15 @@
+<svg id="reply" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_14853" data-name="Group 14853" opacity="0">
+    <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(2 2)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Rectangle_1593" data-name="Rectangle 1593" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+  </g>
+  <g id="Icon_ionic-ios-chatbubbles" data-name="Icon ionic-ios-chatbubbles" transform="translate(20.133 3.722) rotate(90)">
+    <path id="Path_13261" data-name="Path 13261" d="M14.985,12.981a1.154,1.154,0,0,1,.157-.581,1.6,1.6,0,0,1,.1-.148,7.716,7.716,0,0,0,1.314-4.3A8.1,8.1,0,0,0,8.286,0,8.214,8.214,0,0,0,.176,6.328,7.652,7.652,0,0,0,0,7.957a8.078,8.078,0,0,0,8.143,8.052,9.807,9.807,0,0,0,2.248-.367c.538-.148,1.071-.343,1.209-.4a1.259,1.259,0,0,1,.443-.081,1.238,1.238,0,0,1,.481.1l2.7.957a.644.644,0,0,0,.186.048.379.379,0,0,0,.381-.381.612.612,0,0,0-.024-.129Z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1035" data-name="Rectangle 1035" width="48" height="48" transform="translate(1462 556)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="help_touch" transform="translate(-1462 -556)" clip-path="url(#clip-path)">
+    <path id="Icon_awesome-hands-helping" data-name="Icon awesome-hands-helping" d="M22.876,9H15.751v2.625a3.375,3.375,0,1,1-6.751,0v-5.7L5.958,7.754A2.994,2.994,0,0,0,4.5,10.323v2.217L.75,14.706A1.5,1.5,0,0,0,.2,16.755l3.75,6.5A1.5,1.5,0,0,0,6,23.8L10.847,21h6.4a3,3,0,0,0,3-3H21a1.5,1.5,0,0,0,1.5-1.5v-3h.375A1.122,1.122,0,0,0,24,12.377v-2.25A1.122,1.122,0,0,0,22.876,9ZM29.8,7.248,26.05.751A1.5,1.5,0,0,0,24,.2L19.154,3H14.363a3.023,3.023,0,0,0-1.589.455l-1.57.98a1.49,1.49,0,0,0-.7,1.27v5.921a1.875,1.875,0,1,0,3.75,0V7.5h8.626A2.627,2.627,0,0,1,25.5,10.126v1.336L29.252,9.3A1.5,1.5,0,0,0,29.8,7.248Z" transform="translate(1471.002 567.999)" fill="#000058"/>
+  </g>
+</svg>

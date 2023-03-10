@@ -1,0 +1,13 @@
+<svg id="notified" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_15544" data-name="Group 15544" transform="translate(-365 -187)" opacity="0">
+    <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(367 189)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Rectangle_1593" data-name="Rectangle 1593" transform="translate(365 187)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+  </g>
+  <path id="Icon_material-notifications-active" data-name="Icon material-notifications-active" d="M7.793,5.1,6.569,3.878a8.918,8.918,0,0,0-3.524,6.715H4.756A7.225,7.225,0,0,1,7.793,5.1Zm10.6,5.492H20.1a8.973,8.973,0,0,0-3.524-6.715L15.364,5.1a7.267,7.267,0,0,1,3.028,5.492Zm-1.685.428c0-2.626-1.4-4.825-3.85-5.406V5.033a1.283,1.283,0,0,0-2.566,0v.582c-2.455.582-3.85,2.772-3.85,5.406V15.3L4.73,17.01v.855H18.418V17.01L16.707,15.3Zm-5.133,9.41a1.5,1.5,0,0,0,.342-.034,1.736,1.736,0,0,0,1.232-1.009,1.717,1.717,0,0,0,.128-.667H9.854A1.723,1.723,0,0,0,11.574,20.431Z" transform="translate(0.426 -0.091)" fill="#fff"/>
+</svg>

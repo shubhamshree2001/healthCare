@@ -1,0 +1,1165 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:11:4-49:19
+MERGED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
+MERGED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
+MERGED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-36:19
+MERGED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-36:19
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-32:19
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-32:19
+MERGED from [:url_launcher_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:razorpay_flutter] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-10:19
+MERGED from [:razorpay_flutter] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-10:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:7:5-15:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /home/shubham/.gradle/caches/transforms-3/9f337df1e0ec505196679c77f4224763/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /home/shubham/.gradle/caches/transforms-3/9f337df1e0ec505196679c77f4224763/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/shubham/.gradle/caches/transforms-3/5a1a12df6d3b73169c916d64fe1a02d7/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/shubham/.gradle/caches/transforms-3/5a1a12df6d3b73169c916d64fe1a02d7/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /home/shubham/.gradle/caches/transforms-3/b7f0611f5ed72bba67a99abb3eed7c1f/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /home/shubham/.gradle/caches/transforms-3/b7f0611f5ed72bba67a99abb3eed7c1f/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/shubham/.gradle/caches/transforms-3/1ecf8391d0f9f601e6c608689c33d495/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/shubham/.gradle/caches/transforms-3/1ecf8391d0f9f601e6c608689c33d495/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:39:5-65:19
+MERGED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:39:5-65:19
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/shubham/.gradle/caches/transforms-3/d0ff7e040ffd5a29369ca53f8f2c6ae4/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/shubham/.gradle/caches/transforms-3/d0ff7e040ffd5a29369ca53f8f2c6ae4/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /home/shubham/.gradle/caches/transforms-3/2571afdee3a2e610e4d518c89e2d619c/transformed/jetified-play-services-identity-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /home/shubham/.gradle/caches/transforms-3/2571afdee3a2e610e4d518c89e2d619c/transformed/jetified-play-services-identity-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/8549ea7d1466ea44d83e9ecf2a27cdba/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/8549ea7d1466ea44d83e9ecf2a27cdba/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/shubham/.gradle/caches/transforms-3/a207f17ff67eaa81c2d43d930873fa4f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/shubham/.gradle/caches/transforms-3/a207f17ff67eaa81c2d43d930873fa4f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shubham/.gradle/caches/transforms-3/0e06e24615b52bb73a2b9e7f8499e3a5/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shubham/.gradle/caches/transforms-3/0e06e24615b52bb73a2b9e7f8499e3a5/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/shubham/.gradle/caches/transforms-3/3ed59437caf3849fc0f08ad6006e6c2f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/shubham/.gradle/caches/transforms-3/3ed59437caf3849fc0f08ad6006e6c2f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/shubham/.gradle/caches/transforms-3/f32a3f4f32805fc77b4afb898dae8ce6/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/shubham/.gradle/caches/transforms-3/f32a3f4f32805fc77b4afb898dae8ce6/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /home/shubham/.gradle/caches/transforms-3/a87033091b917936b41be9a39ce8b62f/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /home/shubham/.gradle/caches/transforms-3/a87033091b917936b41be9a39ce8b62f/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/shubham/.gradle/caches/transforms-3/2c2948484565e0be959b20fe295ddd5d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/shubham/.gradle/caches/transforms-3/2c2948484565e0be959b20fe295ddd5d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/a2ed10c853dc7a96fafa9f14ba8f3c61/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/a2ed10c853dc7a96fafa9f14ba8f3c61/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shubham/.gradle/caches/transforms-3/fcc2eaf6702f3894c54af7cf50e2ee9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shubham/.gradle/caches/transforms-3/fcc2eaf6702f3894c54af7cf50e2ee9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:10:3-17:17
+MERGED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:10:3-17:17
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/a2ed10c853dc7a96fafa9f14ba8f3c61/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:1:1-76:12
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:1:1-76:12
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:1:1-76:12
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:1:1-76:12
+MERGED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:1:1-76:12
+MERGED from [:store_redirect] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/store_redirect/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-50:12
+MERGED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-38:12
+MERGED from [:audioplayers_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/audioplayers_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:sqflite] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:rate_my_app] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/rate_my_app/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-34:12
+MERGED from [:url_launcher_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:path_provider_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_sign_in_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:connectivity_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/connectivity_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:webview_flutter_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:razorpay_flutter] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:fluttertoast] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:advance_pdf_viewer] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/advance_pdf_viewer/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/f261be7239b582f187ac226ef14e3381/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:17:1-62:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/shubham/.gradle/caches/transforms-3/afe4d357bfbc3d151ba455bbb0fe9c3b/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /home/shubham/.gradle/caches/transforms-3/9f337df1e0ec505196679c77f4224763/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/shubham/.gradle/caches/transforms-3/5a1a12df6d3b73169c916d64fe1a02d7/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/shubham/.gradle/caches/transforms-3/60f619fd8cbf19f217cd3ba3183c02a4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /home/shubham/.gradle/caches/transforms-3/b7f0611f5ed72bba67a99abb3eed7c1f/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/shubham/.gradle/caches/transforms-3/1ecf8391d0f9f601e6c608689c33d495/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/shubham/.gradle/caches/transforms-3/e5be4aeb2f6543e8a0852cf4dca3cd3a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/shubham/.gradle/caches/transforms-3/b0c982129e423a58d25b73b715419e18/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/shubham/.gradle/caches/transforms-3/56b24390268eae32edadfabcd207a533/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/shubham/.gradle/caches/transforms-3/556b5f66e285d1acbb85eba47189113b/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:2:1-67:12
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/shubham/.gradle/caches/transforms-3/c1437b3482b177f22fda5b89e9fbe269/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/195682d6186118aa9d2d3196c74d259d/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/shubham/.gradle/caches/transforms-3/d0ff7e040ffd5a29369ca53f8f2c6ae4/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] /home/shubham/.gradle/caches/transforms-3/86ad73a6526ff095a4442c5997429fd2/transformed/jetified-play-services-wallet-18.1.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /home/shubham/.gradle/caches/transforms-3/2571afdee3a2e610e4d518c89e2d619c/transformed/jetified-play-services-identity-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/8549ea7d1466ea44d83e9ecf2a27cdba/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/shubham/.gradle/caches/transforms-3/a207f17ff67eaa81c2d43d930873fa4f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] /home/shubham/.gradle/caches/transforms-3/ff110db21d73b2c020464c8f6ec4f911/transformed/jetified-firebase-installations-interop-17.0.2/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shubham/.gradle/caches/transforms-3/0e06e24615b52bb73a2b9e7f8499e3a5/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/shubham/.gradle/caches/transforms-3/3ed59437caf3849fc0f08ad6006e6c2f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/shubham/.gradle/caches/transforms-3/f32a3f4f32805fc77b4afb898dae8ce6/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /home/shubham/.gradle/caches/transforms-3/a87033091b917936b41be9a39ce8b62f/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/shubham/.gradle/caches/transforms-3/2c2948484565e0be959b20fe295ddd5d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/shubham/.gradle/caches/transforms-3/13b08dc8c4ddee0382ad068716f425ab/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/shubham/.gradle/caches/transforms-3/75e6fe5a0bf768da12d4c6b42374e3a7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/shubham/.gradle/caches/transforms-3/52b85f4ab5e7416ee17d4ad6432f0b5c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/shubham/.gradle/caches/transforms-3/040472ac1d97e5c6ad8ac176da7dfc01/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.2.0] /home/shubham/.gradle/caches/transforms-3/13d10fa988e165db59bec623486fe454/transformed/lifecycle-reactivestreams-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /home/shubham/.gradle/caches/transforms-3/c8f85d5654ee59a2a2574d430c73d692/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.webkit:webkit:1.0.0] /home/shubham/.gradle/caches/transforms-3/580bcc0e34cb04cacb1812a10c4c72f7/transformed/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] /home/shubham/.gradle/caches/transforms-3/83a205949b5c7a3619622db73962a7a9/transformed/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /home/shubham/.gradle/caches/transforms-3/d0ce3d8e719ba1f299a6938a76c0e6a8/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shubham/.gradle/caches/transforms-3/46385e26ab2ab3def69a708c7892eda2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/0419c38842982f58bed5226662496343/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/6d43a822bea64c1115adb8905a085fca/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/041015c12e6164226c8aff2f5603a776/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/shubham/.gradle/caches/transforms-3/7a3b5290dd3d7b566450573db64e5f6d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/e60c4703a08d288bdc95d48b02c0267f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/shubham/.gradle/caches/transforms-3/cce687d1fe1746c41838a2e4f82f8f31/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/a2ed10c853dc7a96fafa9f14ba8f3c61/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/shubham/.gradle/caches/transforms-3/bef6d4932be5666d71682d48ab18cfdc/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] /home/shubham/.gradle/caches/transforms-3/56314a2983f9142965a188c9d3179224/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/shubham/.gradle/caches/transforms-3/eccddfdb731fab5be0f571da9b9dc16a/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/shubham/.gradle/caches/transforms-3/fbfdf0a40e49c85b19bb1adae8b83bb1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/shubham/.gradle/caches/transforms-3/2d1d178c02a34752a2dc32deda9ef521/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/shubham/.gradle/caches/transforms-3/4097a9588330c7b8a3bd01625b1f7f74/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/shubham/.gradle/caches/transforms-3/d6fac7eee26a157bb6ad4c61bc51042d/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/shubham/.gradle/caches/transforms-3/333210fe17bb260802e4cdf568f5b96b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/shubham/.gradle/caches/transforms-3/7ef76c7fa6b9f49b6af3482ca6aa79af/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/shubham/.gradle/caches/transforms-3/9e0eb723b9c1bc9f13522b4b2c5a3978/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shubham/.gradle/caches/transforms-3/fcc2eaf6702f3894c54af7cf50e2ee9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/shubham/.gradle/caches/transforms-3/264de61e4f53244ff7326f00ff2a7e60/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/shubham/.gradle/caches/transforms-3/8d8a737ac0f73e9d00148de7629427df/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shubham/.gradle/caches/transforms-3/441d64f2f2fa1c396a65dc92811c0729/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/shubham/.gradle/caches/transforms-3/9d99fcfcc0628f5f0fed5f99b2680aac/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/shubham/.gradle/caches/transforms-3/e32658f0740f52fae95da2103b7aa13c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:1:1-76:12
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:1:1-76:12
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:google_sign_in_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:google_sign_in_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:7:22-79
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:9:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:10:22-69
+queries
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:52:5-74:15
+MERGED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:11:5-37:15
+MERGED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:11:5-37:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:54:9-57:18
+action#android.intent.action.VIEW
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:55:13-65
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:55:21-62
+data
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:56:13-44
+	android:scheme
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:56:19-41
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:59:9-62:18
+action#android.intent.action.DIAL
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:60:13-65
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:60:21-62
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:64:9-67:18
+action#android.intent.action.SEND
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:65:13-65
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:65:21-62
+intent#action:name:android.intent.action.INSERT+data:mimeType:vnd.android.cursor.item/event
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:69:9-72:18
+action#android.intent.action.INSERT
+ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:70:13-67
+	android:name
+		ADDED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml:70:21-64
+uses-sdk
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:store_redirect] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/store_redirect/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:store_redirect] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/store_redirect/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:audioplayers_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/audioplayers_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:audioplayers_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/audioplayers_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:sqflite] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rate_my_app] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/rate_my_app/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rate_my_app] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/rate_my_app/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/connectivity_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/connectivity_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:razorpay_flutter] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:razorpay_flutter] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:advance_pdf_viewer] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/advance_pdf_viewer/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:advance_pdf_viewer] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/advance_pdf_viewer/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/f261be7239b582f187ac226ef14e3381/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/f261be7239b582f187ac226ef14e3381/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/shubham/.gradle/caches/transforms-3/afe4d357bfbc3d151ba455bbb0fe9c3b/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/shubham/.gradle/caches/transforms-3/afe4d357bfbc3d151ba455bbb0fe9c3b/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /home/shubham/.gradle/caches/transforms-3/9f337df1e0ec505196679c77f4224763/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /home/shubham/.gradle/caches/transforms-3/9f337df1e0ec505196679c77f4224763/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/shubham/.gradle/caches/transforms-3/5a1a12df6d3b73169c916d64fe1a02d7/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/shubham/.gradle/caches/transforms-3/5a1a12df6d3b73169c916d64fe1a02d7/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/shubham/.gradle/caches/transforms-3/60f619fd8cbf19f217cd3ba3183c02a4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/shubham/.gradle/caches/transforms-3/60f619fd8cbf19f217cd3ba3183c02a4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /home/shubham/.gradle/caches/transforms-3/b7f0611f5ed72bba67a99abb3eed7c1f/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /home/shubham/.gradle/caches/transforms-3/b7f0611f5ed72bba67a99abb3eed7c1f/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/shubham/.gradle/caches/transforms-3/1ecf8391d0f9f601e6c608689c33d495/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/shubham/.gradle/caches/transforms-3/1ecf8391d0f9f601e6c608689c33d495/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/shubham/.gradle/caches/transforms-3/e5be4aeb2f6543e8a0852cf4dca3cd3a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/shubham/.gradle/caches/transforms-3/e5be4aeb2f6543e8a0852cf4dca3cd3a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/shubham/.gradle/caches/transforms-3/b0c982129e423a58d25b73b715419e18/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/shubham/.gradle/caches/transforms-3/b0c982129e423a58d25b73b715419e18/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/shubham/.gradle/caches/transforms-3/56b24390268eae32edadfabcd207a533/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/shubham/.gradle/caches/transforms-3/56b24390268eae32edadfabcd207a533/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/shubham/.gradle/caches/transforms-3/556b5f66e285d1acbb85eba47189113b/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/shubham/.gradle/caches/transforms-3/556b5f66e285d1acbb85eba47189113b/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/shubham/.gradle/caches/transforms-3/c1437b3482b177f22fda5b89e9fbe269/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/shubham/.gradle/caches/transforms-3/c1437b3482b177f22fda5b89e9fbe269/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/195682d6186118aa9d2d3196c74d259d/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/195682d6186118aa9d2d3196c74d259d/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/shubham/.gradle/caches/transforms-3/d0ff7e040ffd5a29369ca53f8f2c6ae4/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/shubham/.gradle/caches/transforms-3/d0ff7e040ffd5a29369ca53f8f2c6ae4/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] /home/shubham/.gradle/caches/transforms-3/86ad73a6526ff095a4442c5997429fd2/transformed/jetified-play-services-wallet-18.1.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] /home/shubham/.gradle/caches/transforms-3/86ad73a6526ff095a4442c5997429fd2/transformed/jetified-play-services-wallet-18.1.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /home/shubham/.gradle/caches/transforms-3/2571afdee3a2e610e4d518c89e2d619c/transformed/jetified-play-services-identity-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] /home/shubham/.gradle/caches/transforms-3/2571afdee3a2e610e4d518c89e2d619c/transformed/jetified-play-services-identity-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/8549ea7d1466ea44d83e9ecf2a27cdba/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/8549ea7d1466ea44d83e9ecf2a27cdba/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/shubham/.gradle/caches/transforms-3/a207f17ff67eaa81c2d43d930873fa4f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/shubham/.gradle/caches/transforms-3/a207f17ff67eaa81c2d43d930873fa4f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] /home/shubham/.gradle/caches/transforms-3/ff110db21d73b2c020464c8f6ec4f911/transformed/jetified-firebase-installations-interop-17.0.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] /home/shubham/.gradle/caches/transforms-3/ff110db21d73b2c020464c8f6ec4f911/transformed/jetified-firebase-installations-interop-17.0.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shubham/.gradle/caches/transforms-3/0e06e24615b52bb73a2b9e7f8499e3a5/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shubham/.gradle/caches/transforms-3/0e06e24615b52bb73a2b9e7f8499e3a5/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/shubham/.gradle/caches/transforms-3/3ed59437caf3849fc0f08ad6006e6c2f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/shubham/.gradle/caches/transforms-3/3ed59437caf3849fc0f08ad6006e6c2f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/shubham/.gradle/caches/transforms-3/f32a3f4f32805fc77b4afb898dae8ce6/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/shubham/.gradle/caches/transforms-3/f32a3f4f32805fc77b4afb898dae8ce6/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /home/shubham/.gradle/caches/transforms-3/a87033091b917936b41be9a39ce8b62f/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /home/shubham/.gradle/caches/transforms-3/a87033091b917936b41be9a39ce8b62f/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/shubham/.gradle/caches/transforms-3/2c2948484565e0be959b20fe295ddd5d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/shubham/.gradle/caches/transforms-3/2c2948484565e0be959b20fe295ddd5d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /home/shubham/.gradle/caches/transforms-3/13b08dc8c4ddee0382ad068716f425ab/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/shubham/.gradle/caches/transforms-3/13b08dc8c4ddee0382ad068716f425ab/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/shubham/.gradle/caches/transforms-3/75e6fe5a0bf768da12d4c6b42374e3a7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/shubham/.gradle/caches/transforms-3/75e6fe5a0bf768da12d4c6b42374e3a7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/shubham/.gradle/caches/transforms-3/52b85f4ab5e7416ee17d4ad6432f0b5c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/shubham/.gradle/caches/transforms-3/52b85f4ab5e7416ee17d4ad6432f0b5c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/shubham/.gradle/caches/transforms-3/040472ac1d97e5c6ad8ac176da7dfc01/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/shubham/.gradle/caches/transforms-3/040472ac1d97e5c6ad8ac176da7dfc01/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.2.0] /home/shubham/.gradle/caches/transforms-3/13d10fa988e165db59bec623486fe454/transformed/lifecycle-reactivestreams-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.2.0] /home/shubham/.gradle/caches/transforms-3/13d10fa988e165db59bec623486fe454/transformed/lifecycle-reactivestreams-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /home/shubham/.gradle/caches/transforms-3/c8f85d5654ee59a2a2574d430c73d692/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /home/shubham/.gradle/caches/transforms-3/c8f85d5654ee59a2a2574d430c73d692/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.webkit:webkit:1.0.0] /home/shubham/.gradle/caches/transforms-3/580bcc0e34cb04cacb1812a10c4c72f7/transformed/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /home/shubham/.gradle/caches/transforms-3/580bcc0e34cb04cacb1812a10c4c72f7/transformed/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] /home/shubham/.gradle/caches/transforms-3/83a205949b5c7a3619622db73962a7a9/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /home/shubham/.gradle/caches/transforms-3/83a205949b5c7a3619622db73962a7a9/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/shubham/.gradle/caches/transforms-3/d0ce3d8e719ba1f299a6938a76c0e6a8/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/shubham/.gradle/caches/transforms-3/d0ce3d8e719ba1f299a6938a76c0e6a8/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shubham/.gradle/caches/transforms-3/46385e26ab2ab3def69a708c7892eda2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shubham/.gradle/caches/transforms-3/46385e26ab2ab3def69a708c7892eda2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/0419c38842982f58bed5226662496343/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/0419c38842982f58bed5226662496343/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/6d43a822bea64c1115adb8905a085fca/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/6d43a822bea64c1115adb8905a085fca/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/041015c12e6164226c8aff2f5603a776/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/041015c12e6164226c8aff2f5603a776/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/shubham/.gradle/caches/transforms-3/7a3b5290dd3d7b566450573db64e5f6d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/shubham/.gradle/caches/transforms-3/7a3b5290dd3d7b566450573db64e5f6d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/e60c4703a08d288bdc95d48b02c0267f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/shubham/.gradle/caches/transforms-3/e60c4703a08d288bdc95d48b02c0267f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/shubham/.gradle/caches/transforms-3/cce687d1fe1746c41838a2e4f82f8f31/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/shubham/.gradle/caches/transforms-3/cce687d1fe1746c41838a2e4f82f8f31/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/a2ed10c853dc7a96fafa9f14ba8f3c61/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/a2ed10c853dc7a96fafa9f14ba8f3c61/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/shubham/.gradle/caches/transforms-3/bef6d4932be5666d71682d48ab18cfdc/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/shubham/.gradle/caches/transforms-3/bef6d4932be5666d71682d48ab18cfdc/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /home/shubham/.gradle/caches/transforms-3/56314a2983f9142965a188c9d3179224/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /home/shubham/.gradle/caches/transforms-3/56314a2983f9142965a188c9d3179224/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/shubham/.gradle/caches/transforms-3/eccddfdb731fab5be0f571da9b9dc16a/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/shubham/.gradle/caches/transforms-3/eccddfdb731fab5be0f571da9b9dc16a/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/shubham/.gradle/caches/transforms-3/fbfdf0a40e49c85b19bb1adae8b83bb1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/shubham/.gradle/caches/transforms-3/fbfdf0a40e49c85b19bb1adae8b83bb1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/shubham/.gradle/caches/transforms-3/2d1d178c02a34752a2dc32deda9ef521/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/shubham/.gradle/caches/transforms-3/2d1d178c02a34752a2dc32deda9ef521/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/shubham/.gradle/caches/transforms-3/4097a9588330c7b8a3bd01625b1f7f74/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/shubham/.gradle/caches/transforms-3/4097a9588330c7b8a3bd01625b1f7f74/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/shubham/.gradle/caches/transforms-3/d6fac7eee26a157bb6ad4c61bc51042d/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/shubham/.gradle/caches/transforms-3/d6fac7eee26a157bb6ad4c61bc51042d/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/shubham/.gradle/caches/transforms-3/333210fe17bb260802e4cdf568f5b96b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/shubham/.gradle/caches/transforms-3/333210fe17bb260802e4cdf568f5b96b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/shubham/.gradle/caches/transforms-3/7ef76c7fa6b9f49b6af3482ca6aa79af/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/shubham/.gradle/caches/transforms-3/7ef76c7fa6b9f49b6af3482ca6aa79af/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/shubham/.gradle/caches/transforms-3/9e0eb723b9c1bc9f13522b4b2c5a3978/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/shubham/.gradle/caches/transforms-3/9e0eb723b9c1bc9f13522b4b2c5a3978/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shubham/.gradle/caches/transforms-3/fcc2eaf6702f3894c54af7cf50e2ee9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shubham/.gradle/caches/transforms-3/fcc2eaf6702f3894c54af7cf50e2ee9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/shubham/.gradle/caches/transforms-3/264de61e4f53244ff7326f00ff2a7e60/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/shubham/.gradle/caches/transforms-3/264de61e4f53244ff7326f00ff2a7e60/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/shubham/.gradle/caches/transforms-3/8d8a737ac0f73e9d00148de7629427df/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/shubham/.gradle/caches/transforms-3/8d8a737ac0f73e9d00148de7629427df/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shubham/.gradle/caches/transforms-3/441d64f2f2fa1c396a65dc92811c0729/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shubham/.gradle/caches/transforms-3/441d64f2f2fa1c396a65dc92811c0729/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/shubham/.gradle/caches/transforms-3/9d99fcfcc0628f5f0fed5f99b2680aac/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/shubham/.gradle/caches/transforms-3/9d99fcfcc0628f5f0fed5f99b2680aac/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:4:3-70
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/shubham/.gradle/caches/transforms-3/e32658f0740f52fae95da2103b7aa13c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/shubham/.gradle/caches/transforms-3/e32658f0740f52fae95da2103b7aa13c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubham/Documents/flutterapp/mindpeers-mobile/android/app/src/debug/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:37:9-41:19
+MERGED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:37:9-41:19
+MERGED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:53:9-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:53:9-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_auth] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:connectivity_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/connectivity_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:connectivity_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/connectivity_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:26:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-74
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-19:72
+	android:exported
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	android:permission
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-69
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-26:19
+	android:exported
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-40:85
+	android:value
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:40:17-82
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:39:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-47:38
+	android:authorities
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-88
+	android:exported
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-35
+	android:name
+		ADDED from [:firebase_messaging] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_core] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:75
+	android:resource
+		ADDED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-72
+	android:name
+		ADDED from [:image_picker_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-66
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-66
+MERGED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-63
+receiver#me.carda.awesome_notifications.notifications.broadcastReceivers.DismissedNotificationReceiver
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-121
+receiver#me.carda.awesome_notifications.notifications.broadcastReceivers.ScheduledNotificationReceiver
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-121
+receiver#me.carda.awesome_notifications.notifications.broadcastReceivers.KeepOnTopActionReceiver
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-115
+receiver#me.carda.awesome_notifications.notifications.broadcastReceivers.RefreshSchedulesReceiver
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-35:20
+	android:exported
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-116
+intent-filter#action:name:android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCKED_BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-34:29
+category#android.intent.category.DEFAULT
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:26:27-73
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-79
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:28:25-76
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-86
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:25-83
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-84
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:30:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:31:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:32:25-79
+action#android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED
+ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-107
+	android:name
+		ADDED from [:awesome_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-104
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-76
+receiver#com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver
+ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-91
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-31:20
+	android:exported
+		ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-30:29
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+provider#dev.fluttercommunity.plus.share.ShareFileProvider
+ADDED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:share_plus] /home/shubham/Documents/flutterapp/mindpeers-mobile/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-77
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.1.1] /home/shubham/.gradle/caches/transforms-3/844f2417f897183b8ac0ef8a431fd7be/transformed/jetified-firebase-analytics-ktx-21.1.1/AndroidManifest.xml:12:17-126
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/shubham/.gradle/caches/transforms-3/1726a51a5c449e39bbb8c45ae47f5cfd/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:29:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /home/shubham/.gradle/caches/transforms-3/0dc302fcd02a045c36312aa40c58ca28/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:29:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:32:9-39:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:33:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:45:9-52:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:48:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:47:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:46:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:56:13-58:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:58:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.8] /home/shubham/.gradle/caches/transforms-3/2f8a0ea7205186667a72d427784fbfb3/transformed/jetified-firebase-messaging-23.0.8/AndroidManifest.xml:57:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.6] /home/shubham/.gradle/caches/transforms-3/10adfa710fdcb5ffa1cd1f0acc61951c/transformed/jetified-firebase-datatransport-18.1.6/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] /home/shubham/.gradle/caches/transforms-3/8d80979309dee6c003a11229942c0c68/transformed/jetified-transport-backend-cct-3.1.7/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] /home/shubham/.gradle/caches/transforms-3/b84f79425732383f923ceaa4853dc1b8/transformed/jetified-transport-runtime-3.1.7/AndroidManifest.xml:33:13-132
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:33:13-43:29
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:37:27-75
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /home/shubham/.gradle/caches/transforms-3/3d3e80ccff28350fd290792163451cb9/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.2] /home/shubham/.gradle/caches/transforms-3/801fa4a8bcb7aa981ea74ea84633b5f0/transformed/jetified-firebase-common-ktx-20.1.2/AndroidManifest.xml:16:17-113
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/shubham/.gradle/caches/transforms-3/f32a3f4f32805fc77b4afb898dae8ce6/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/shubham/.gradle/caches/transforms-3/f32a3f4f32805fc77b4afb898dae8ce6/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/0f936afc1b71535d63d383c892c348d8/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /home/shubham/.gradle/caches/transforms-3/17915be06df1aea7431f0f0db2ed7fd5/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.3] /home/shubham/.gradle/caches/transforms-3/1aabeb26acd300f86bbe5bd9d3ed2038/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /home/shubham/.gradle/caches/transforms-3/f14aa834baac9f8c0b66909938f26fb1/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /home/shubham/.gradle/caches/transforms-3/a2b9b5f02a80dde62b02a1f66fb3880e/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /home/shubham/.gradle/caches/transforms-3/d724a9dea911a40eda23b1bf2fad00c5/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:40:13-87
+intent#action:name:android.intent.action.VIEW+data:mimeType:*/*+data:scheme:*
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:12:9-18:18
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:host:pay+data:mimeType:*/*+data:scheme:upi
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:19:9-28:18
+intent#action:name:android.intent.action.MAIN
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:29:9-31:18
+action#android.intent.action.MAIN
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:30:21-62
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:40:9-46:20
+	android:exported
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:41:13-57
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:43:13-45:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:44:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:44:25-62
+activity#com.razorpay.CheckoutActivity
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:48:9-60:20
+	android:exported
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:51:13-36
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:50:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:49:13-57
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:53:13-59:29
+meta-data#com.razorpay.plugin.googlepay_all
+ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:62:9-64:58
+	android:value
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:64:13-55
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.19] /home/shubham/.gradle/caches/transforms-3/e88a544ea12e249f0f76df8867c2c732/transformed/jetified-checkout-1.6.19/AndroidManifest.xml:63:13-61
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] /home/shubham/.gradle/caches/transforms-3/6010834b174aecfdb4bb7d623a296550/transformed/jetified-play-services-auth-20.0.1/AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/shubham/.gradle/caches/transforms-3/b0c0c090fd9354bac4ccc1d61bb16931/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/8549ea7d1466ea44d83e9ecf2a27cdba/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/8549ea7d1466ea44d83e9ecf2a27cdba/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/8549ea7d1466ea44d83e9ecf2a27cdba/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/shubham/.gradle/caches/transforms-3/8549ea7d1466ea44d83e9ecf2a27cdba/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/shubham/.gradle/caches/transforms-3/2c2948484565e0be959b20fe295ddd5d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/shubham/.gradle/caches/transforms-3/2c2948484565e0be959b20fe295ddd5d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/shubham/.gradle/caches/transforms-3/2c2948484565e0be959b20fe295ddd5d/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/shubham/.gradle/caches/transforms-3/42329a148393dd0c8771f592c4346311/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/shubham/.gradle/caches/transforms-3/445689de20abfaecbbc73f5f4fe6e4f8/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:8:20-72
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:16:5-145
+	android:enabled
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.8.0] /home/shubham/.gradle/caches/transforms-3/6307b1b83cabd87e9d5d14b13ac446fb/transformed/jetified-core-1.8.0/AndroidManifest.xml:16:14-95

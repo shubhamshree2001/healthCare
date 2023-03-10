@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_937" data-name="Rectangle 937" width="48" height="48" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="change" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Icon_awesome-exchange-alt" data-name="Icon awesome-exchange-alt" d="M0,7.918V7.349A.853.853,0,0,1,.853,6.5h12.8V4.79a.854.854,0,0,1,1.456-.6L17.95,7.03a.853.853,0,0,1,0,1.207l-2.844,2.844a.854.854,0,0,1-1.456-.6V8.771H.853A.853.853,0,0,1,0,7.918Zm17.347,5.4H4.55V11.615a.854.854,0,0,0-1.456-.6L.25,13.855a.853.853,0,0,0,0,1.207l2.844,2.844a.854.854,0,0,0,1.456-.6V15.6h12.8a.853.853,0,0,0,.853-.853v-.569A.853.853,0,0,0,17.347,13.321Z" transform="translate(14.9 12.953)" fill="#000058"/>
+  </g>
+</svg>

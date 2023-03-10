@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1016" data-name="Rectangle 1016" width="48" height="48" transform="translate(0 -0.245)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="calendar" transform="translate(0 0.245)" clip-path="url(#clip-path)">
+    <path id="Icon_ionic-md-calendar" data-name="Icon ionic-md-calendar" d="M17.1,4.5V5.982H9.686V4.5H7.464V5.982H6.352A1.858,1.858,0,0,0,4.5,7.834v12.6a1.858,1.858,0,0,0,1.852,1.852H20.429a1.858,1.858,0,0,0,1.852-1.852V7.834a1.858,1.858,0,0,0-1.852-1.852H19.318V4.5Zm3.334,15.929H6.352V10.612H20.429Z" transform="translate(10.609 10.5)" fill="#000058"/>
+    <circle id="Ellipse_535" data-name="Ellipse 535" cx="2" cy="2" r="2" transform="translate(25 23.755)" fill="#000058"/>
+    <circle id="Ellipse_536" data-name="Ellipse 536" cx="2" cy="2" r="2" transform="translate(19 23.755)" fill="#7373aa"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="flag" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_14869" data-name="Group 14869" transform="translate(-365 -187)" opacity="0">
+    <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(367 189)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Rectangle_1593" data-name="Rectangle 1593" transform="translate(365 187)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+  </g>
+  <path id="Icon_weather-gale-warning" data-name="Icon weather-gale-warning" d="M12.8,23.415V8.94h.869V23.415Zm1.911-7.595V9.566l7.3,3.114Z" transform="translate(-3.304 -4.177)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>

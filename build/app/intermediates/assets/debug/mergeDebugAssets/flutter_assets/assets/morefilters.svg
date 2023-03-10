@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_948" data-name="Rectangle 948" width="48" height="48" transform="translate(1462 556)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="morefilters" transform="translate(-1462 -556)" clip-path="url(#clip-path)">
+    <g id="Group_14190" data-name="Group 14190" transform="translate(1347.677 389.385)">
+      <g id="Group_14189" data-name="Group 14189" transform="translate(122.775 175.068)">
+        <g id="Rectangle_947" data-name="Rectangle 947" transform="translate(-0.453 -0.453)" fill="none" stroke="#eeeded" stroke-width="1">
+          <rect width="33" height="33" rx="16.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="32" height="32" rx="16" fill="none"/>
+        </g>
+      </g>
+      <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" d="M17.9,14.527,11.6,8.225a1.186,1.186,0,0,1,0-1.682,1.2,1.2,0,0,1,1.687,0l7.146,7.141a1.189,1.189,0,0,1,.035,1.643l-7.176,7.19A1.191,1.191,0,0,1,11.6,20.834Z" transform="translate(122.811 176.585)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

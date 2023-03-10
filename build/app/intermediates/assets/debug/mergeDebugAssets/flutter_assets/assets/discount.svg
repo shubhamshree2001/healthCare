@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1042" data-name="Rectangle 1042" width="48" height="48" transform="translate(-0.119)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="discount" transform="translate(0.119)" clip-path="url(#clip-path)">
+    <path id="Icon_awesome-percentage" data-name="Icon awesome-percentage" d="M4.236,8.736a2.481,2.481,0,1,0-3.509,0A2.482,2.482,0,0,0,4.236,8.736Zm9.926,6.416a2.481,2.481,0,1,0,0,3.509A2.482,2.482,0,0,0,14.161,15.152Zm-.075-8.973L13.209,5.3a1.24,1.24,0,0,0-1.754,0L.8,15.955a1.24,1.24,0,0,0,0,1.754l.877.877a1.24,1.24,0,0,0,1.754,0L14.086,7.934A1.24,1.24,0,0,0,14.086,6.179Z" transform="translate(16.881 12.5)" fill="#000058"/>
+  </g>
+</svg>

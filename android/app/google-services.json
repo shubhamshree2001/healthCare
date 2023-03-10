@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "724236716287",
+    "project_id": "mindpeers-staging",
+    "storage_bucket": "mindpeers-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724236716287:android:b2f6a4f2108baa6ff264ca",
+        "android_client_info": {
+          "package_name": "co.mindpeers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724236716287-60qepe8iafgka1vnp8ddjddao9pldhct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXn0TTwhIShyAxwdCNMG349HqAuVxoJak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724236716287-60qepe8iafgka1vnp8ddjddao9pldhct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "724236716287-dt3qn8tlfeahhd6e1joql8eki8rl9m22.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.minpeers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

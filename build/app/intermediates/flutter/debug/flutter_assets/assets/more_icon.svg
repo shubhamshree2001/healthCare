@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_14868" data-name="Group 14868" transform="translate(-10.881 -12)">
+    <g id="Icon_feather-more-vertical" data-name="Icon feather-more-vertical" transform="translate(5.583 10.808)">
+      <path id="Path_12253" data-name="Path 12253" d="M18.3,17.4a.9.9,0,1,1-.9-.9A.9.9,0,0,1,18.3,17.4Z" transform="translate(0 -4.207)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_12254" data-name="Path 12254" d="M18.3,6.9a.9.9,0,1,1-.9-.9A.9.9,0,0,1,18.3,6.9Z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_12255" data-name="Path 12255" d="M18.3,27.9a.9.9,0,1,1-.9-.9A.9.9,0,0,1,18.3,27.9Z" transform="translate(0 -8.413)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Group_14867" data-name="Group 14867" transform="translate(-354.119 -175)" opacity="0">
+      <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(367 189)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="20" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+      </g>
+      <g id="Rectangle_1593" data-name="Rectangle 1593" transform="translate(365 187)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="24" height="24" stroke="none"/>
+        <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

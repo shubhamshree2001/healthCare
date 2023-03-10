@@ -1,0 +1,15 @@
+<svg id="share" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_14863" data-name="Group 14863" transform="translate(-365 -187)" opacity="0">
+    <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(367 189)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Rectangle_1593" data-name="Rectangle 1593" transform="translate(365 187)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_14862" data-name="Group 14862" transform="translate(-9.245 -10.193)">
+    <path id="Icon_ionic-md-share" data-name="Icon ionic-md-share" d="M17.924,15.7a2.447,2.447,0,0,0-1.751.671l-6.42-3.711a3.007,3.007,0,0,0,.09-.626,3.006,3.006,0,0,0-.09-.626l6.331-3.666a2.687,2.687,0,1,0-.853-1.968,2.989,2.989,0,0,0,.09.626L8.99,10.069a2.7,2.7,0,0,0-1.841-.715A2.658,2.658,0,0,0,4.5,12.037,2.7,2.7,0,0,0,9.035,14l6.376,3.711a2.243,2.243,0,0,0-.09.581,2.6,2.6,0,1,0,2.6-2.593Z" transform="translate(8.685 10.201)" fill="#fff"/>
+  </g>
+</svg>

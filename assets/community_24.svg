@@ -1,0 +1,13 @@
+<svg id="community" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_15559" data-name="Group 15559" transform="translate(-365 -187)" opacity="0">
+    <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(367 189)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Rectangle_1593" data-name="Rectangle 1593" transform="translate(365 187)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+  </g>
+  <path id="Icon_material-group" data-name="Icon material-group" d="M13.636,12.354a2.427,2.427,0,1,0-2.427-2.427A2.417,2.417,0,0,0,13.636,12.354Zm-6.473,0A2.427,2.427,0,1,0,4.736,9.927,2.417,2.417,0,0,0,7.164,12.354Zm0,1.618c-1.885,0-5.664.947-5.664,2.832v2.023H12.827V16.8C12.827,14.919,9.049,13.973,7.164,13.973Zm6.473,0c-.235,0-.5.016-.785.04A3.414,3.414,0,0,1,14.445,16.8v2.023H19.3V16.8C19.3,14.919,15.521,13.973,13.636,13.973Z" transform="translate(1.6 -1.164)" fill="#fff"/>
+</svg>

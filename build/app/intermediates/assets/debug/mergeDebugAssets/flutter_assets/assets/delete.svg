@@ -1,0 +1,13 @@
+<svg id="delete" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_14870" data-name="Group 14870" transform="translate(-365 -187)" opacity="0">
+    <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(367 189)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Rectangle_1593" data-name="Rectangle 1593" transform="translate(365 187)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+  </g>
+  <path id="Icon_material-delete" data-name="Icon material-delete" d="M8.44,19.532a1.885,1.885,0,0,0,1.879,1.879h7.516a1.885,1.885,0,0,0,1.879-1.879V8.258H8.44ZM20.653,5.44H17.365l-.94-.94h-4.7l-.94.94H7.5V7.319H20.653Z" transform="translate(-2.076 -0.956)"/>
+</svg>

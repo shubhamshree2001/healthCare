@@ -1,0 +1,7 @@
+<svg id="back" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="arrow-forward" d="M108.138,112,100,120.138l8.138,8.138m-7.008-8.138h16.5" transform="translate(-96.817 -108.139)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <g id="Rectangle_1521" data-name="Rectangle 1521" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+</svg>
